@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+* {
+  /* color: white; */
+  /* margin: 0;
+  padding: 0; */
+  box-sizing: border-box;
+  /* outline: 1px solid red; */
+  user-select: none;
+  font-weight: 500;
+}
+
+#darkModeLight > * {
+  color: black;
+}
